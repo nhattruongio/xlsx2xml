@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+
+    <record id="hospital97-001" model="hospital">
+        <field name="code">97-001</field>
+        <field name="name">BX Lữ đoàn 170/V1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-002" model="hospital">
+        <field name="code">97-002</field>
+        <field name="name">Đội điều trị 78 vùng 5/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-003" model="hospital">
+        <field name="code">97-003</field>
+        <field name="name">BX Lữ Đoàn 147/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-004" model="hospital">
+        <field name="code">97-004</field>
+        <field name="name">BX trường TCKT HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-005" model="hospital">
+        <field name="code">97-005</field>
+        <field name="name">BX BĐBP Điện Biên</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-006" model="hospital">
+        <field name="code">97-006</field>
+        <field name="name">BX BĐBP Lào Cai</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-007" model="hospital">
+        <field name="code">97-007</field>
+        <field name="name">BX BĐBP Quảng Ninh</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-008" model="hospital">
+        <field name="code">97-008</field>
+        <field name="name">BX BĐBP Hà Tĩnh</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-010" model="hospital">
+        <field name="code">97-010</field>
+        <field name="name">BX BĐBP Thừa Thiên-Huế</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-014" model="hospital">
+        <field name="code">97-014</field>
+        <field name="name">BX BĐBP Quảng Bình</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-016" model="hospital">
+        <field name="code">97-016</field>
+        <field name="name">BX BĐBP Kiên Giang</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-018" model="hospital">
+        <field name="code">97-018</field>
+        <field name="name">Bệnh xá Z111</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-020" model="hospital">
+        <field name="code">97-020</field>
+        <field name="name">Bệnh xá Z121</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-021" model="hospital">
+        <field name="code">97-021</field>
+        <field name="name">BX Học viện Hải quân</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-022" model="hospital">
+        <field name="code">97-022</field>
+        <field name="name">Bệnh xá Z114</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-023" model="hospital">
+        <field name="code">97-023</field>
+        <field name="name">Bệnh xá Z127</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-024" model="hospital">
+        <field name="code">97-024</field>
+        <field name="name">Bệnh xá Z131</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-025" model="hospital">
+        <field name="code">97-025</field>
+        <field name="name">Bệnh xá Z115</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-027" model="hospital">
+        <field name="code">97-027</field>
+        <field name="name">Bệnh xá Z117</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-028" model="hospital">
+        <field name="code">97-028</field>
+        <field name="name">Bệnh xá Z125</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-029" model="hospital">
+        <field name="code">97-029</field>
+        <field name="name">Bệnh xá Z143</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-030" model="hospital">
+        <field name="code">97-030</field>
+        <field name="name">Bệnh xá Z175</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-031" model="hospital">
+        <field name="code">97-031</field>
+        <field name="name">Bệnh xá Z176</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-032" model="hospital">
+        <field name="code">97-032</field>
+        <field name="name">Bệnh xá Z199</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-033" model="hospital">
+        <field name="code">97-033</field>
+        <field name="name">Bệnh xá Z195</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-034" model="hospital">
+        <field name="code">97-034</field>
+        <field name="name">Bệnh xá Z183</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-035" model="hospital">
+        <field name="code">97-035</field>
+        <field name="name">BX Sư đoàn 3/QK1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-037" model="hospital">
+        <field name="code">97-037</field>
+        <field name="name">Đội điều trị 486/Vùng 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-039" model="hospital">
+        <field name="code">97-039</field>
+        <field name="name">BX vùng 3/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-040" model="hospital">
+        <field name="code">97-040</field>
+        <field name="name">BX Lữ đoàn 152/QK9</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-042" model="hospital">
+        <field name="code">97-042</field>
+        <field name="name">BX vùng 1/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-048" model="hospital">
+        <field name="code">97-048</field>
+        <field name="name">BX BĐBP Lai Châu</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-053" model="hospital">
+        <field name="code">97-053</field>
+        <field name="name">BX Học viện Quốc phòng</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-056" model="hospital">
+        <field name="code">97-056</field>
+        <field name="name">Bệnh xá Bộ Quốc Phòng</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-057" model="hospital">
+        <field name="code">97-057</field>
+        <field name="name">BX Lữ 101/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-060" model="hospital">
+        <field name="code">97-060</field>
+        <field name="name">Bệnh xá Học viện Hậu Cần</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-064" model="hospital">
+        <field name="code">97-064</field>
+        <field name="name">Bệnh xá Lữ đoàn 189</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-067" model="hospital">
+        <field name="code">97-067</field>
+        <field name="name">BX BĐBP tỉnh Thanh Hoá</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-077" model="hospital">
+        <field name="code">97-077</field>
+        <field name="name">Bệnh viện đa khoa tư nhân Triều An – Loan Trâm</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-078" model="hospital">
+        <field name="code">97-078</field>
+        <field name="name">BX Trường Cao đẳng CNQP</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-079" model="hospital">
+        <field name="code">97-079</field>
+        <field name="name">BX BTLVùng CSB 1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-080" model="hospital">
+        <field name="code">97-080</field>
+        <field name="name">BX BTL Vùng CSB 2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-081" model="hospital">
+        <field name="code">97-081</field>
+        <field name="name">BX BTL Vùng CSB 3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-082" model="hospital">
+        <field name="code">97-082</field>
+        <field name="name">PKĐK Trung tâm An điều dưỡng tàu ngầm/HQ</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-089" model="hospital">
+        <field name="code">97-089</field>
+        <field name="name">Bệnh xá Tổng cục II</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-090" model="hospital">
+        <field name="code">97-090</field>
+        <field name="name">Bệnh xá Học viện Chính trị</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-092" model="hospital">
+        <field name="code">97-092</field>
+        <field name="name">Viện Y học cổ truyền Quân đội CS2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-108" model="hospital">
+        <field name="code">97-108</field>
+        <field name="name">Bệnh xá trường SQLQ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-109" model="hospital">
+        <field name="code">97-109</field>
+        <field name="name">Bệnh Xá Trường Sỹ Quan Lục Quân 2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-110" model="hospital">
+        <field name="code">97-110</field>
+        <field name="name">BX Trung đoàn 2/Sư đoàn 3/QK1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-111" model="hospital">
+        <field name="code">97-111</field>
+        <field name="name">BX Trung đoàn 12/Sư đoàn 3/QK1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-112" model="hospital">
+        <field name="code">97-112</field>
+        <field name="name">BX Trung đoàn 141/Sư đoàn 3/QK1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-200" model="hospital">
+        <field name="code">97-200</field>
+        <field name="name">Bệnh xá Đoàn 316/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-202" model="hospital">
+        <field name="code">97-202</field>
+        <field name="name">Bệnh xá BCHQS Điện Biên-QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-206" model="hospital">
+        <field name="code">97-206</field>
+        <field name="name">Bệnh xá BCHQS Tuyên Quang/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-211" model="hospital">
+        <field name="code">97-211</field>
+        <field name="name">BX BCHQS Lai Châu</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-212" model="hospital">
+        <field name="code">97-212</field>
+        <field name="name">BX Trung đoàn 148/Sư đoàn 316/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-213" model="hospital">
+        <field name="code">97-213</field>
+        <field name="name">BX Trung đoàn 174/Sư đoàn 316/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-214" model="hospital">
+        <field name="code">97-214</field>
+        <field name="name">BX Trung đoàn 98/Sư đoàn 316/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-215" model="hospital">
+        <field name="code">97-215</field>
+        <field name="name">BX Lữ 168/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-216" model="hospital">
+        <field name="code">97-216</field>
+        <field name="name">Bệnh xá Trường Quân sự/QK2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-300" model="hospital">
+        <field name="code">97-300</field>
+        <field name="name">Bệnh xá Sư đoàn 350/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-302" model="hospital">
+        <field name="code">97-302</field>
+        <field name="name">Bệnh xá BCHQS Hà Nam/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-304" model="hospital">
+        <field name="code">97-304</field>
+        <field name="name">BX Lữ đoàn 513/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-305" model="hospital">
+        <field name="code">97-305</field>
+        <field name="name">Bệnh xá BCHQS Hưng Yên/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-313" model="hospital">
+        <field name="code">97-313</field>
+        <field name="name">Phòng khám đa khoa Trung tâm VSPD/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-314" model="hospital">
+        <field name="code">97-314</field>
+        <field name="name">Bệnh xá Đoàn 214/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-315" model="hospital">
+        <field name="code">97-315</field>
+        <field name="name">Bệnh xá E8/Sư đoàn 395-QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-316" model="hospital">
+        <field name="code">97-316</field>
+        <field name="name">Bệnh xá Lữ đoàn 454/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-317" model="hospital">
+        <field name="code">97-317</field>
+        <field name="name">Bệnh xá Trường Quân sự/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-318" model="hospital">
+        <field name="code">97-318</field>
+        <field name="name">Bệnh xá E2/Sư đoàn 395-QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-319" model="hospital">
+        <field name="code">97-319</field>
+        <field name="name">Bệnh xá E43/Sư đoàn 395-QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-320" model="hospital">
+        <field name="code">97-320</field>
+        <field name="name">Bệnh xá Lữ đoàn 242/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-321" model="hospital">
+        <field name="code">97-321</field>
+        <field name="name">Bệnh xá Lữ đoàn 405/QK3</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-400" model="hospital">
+        <field name="code">97-400</field>
+        <field name="name">Bệnh xá Đoàn 324/QK4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-401" model="hospital">
+        <field name="code">97-401</field>
+        <field name="name">Bệnh xá BCHQS Hà Tĩnh/QK4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-403" model="hospital">
+        <field name="code">97-403</field>
+        <field name="name">BX BCHQS tỉnh Quảng Bình</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-404" model="hospital">
+        <field name="code">97-404</field>
+        <field name="name">Bệnh xá BCHQS Quảng Trị/QK4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-408" model="hospital">
+        <field name="code">97-408</field>
+        <field name="name">BX Trung đoàn 1/Sư đoàn 324</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-409" model="hospital">
+        <field name="code">97-409</field>
+        <field name="name">BX Trung đoàn 3/Sư đoàn 324</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-410" model="hospital">
+        <field name="code">97-410</field>
+        <field name="name">BX Trung đoàn 335/Sư đoàn 324</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-412" model="hospital">
+        <field name="code">97-412</field>
+        <field name="name">Bệnh xá Sư đoàn 341/QK4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-500" model="hospital">
+        <field name="code">97-500</field>
+        <field name="name">Bệnh xá Đoàn 2/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-507" model="hospital">
+        <field name="code">97-507</field>
+        <field name="name">BX BCHQS Phú Yên</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-509" model="hospital">
+        <field name="code">97-509</field>
+        <field name="name">Bệnh xá BCHQS Gia Lai/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-511" model="hospital">
+        <field name="code">97-511</field>
+        <field name="name">Bệnh xá Công ty Cà Phê 15/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-512" model="hospital">
+        <field name="code">97-512</field>
+        <field name="name">BX Trung đoàn 1/Sư đoàn 2/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-513" model="hospital">
+        <field name="code">97-513</field>
+        <field name="name">BX Trung đoàn 38/Sư đoàn 2/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-514" model="hospital">
+        <field name="code">97-514</field>
+        <field name="name">BX Trung đoàn 95/Sư đoàn 2/QK5</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-600" model="hospital">
+        <field name="code">97-600</field>
+        <field name="name">Bệnh xá Đoàn 308/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-603" model="hospital">
+        <field name="code">97-603</field>
+        <field name="name">BX Sư đoàn 325/QĐ 2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-607" model="hospital">
+        <field name="code">97-607</field>
+        <field name="name">BX Sư đoàn 309/QĐ 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-609" model="hospital">
+        <field name="code">97-609</field>
+        <field name="name">Bệnh xá Đoàn 202/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-610" model="hospital">
+        <field name="code">97-610</field>
+        <field name="name">BX Trung đoàn 1/Sư đoàn 9/QĐ 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-611" model="hospital">
+        <field name="code">97-611</field>
+        <field name="name">BX Trung đoàn 2/Sư đoàn 9/QĐ 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-612" model="hospital">
+        <field name="code">97-612</field>
+        <field name="name">BX Trung đoàn 3/Sư đoàn 9/QĐ 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-613" model="hospital">
+        <field name="code">97-613</field>
+        <field name="name">BX Sư đoàn 7/ Qđ 4</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-614" model="hospital">
+        <field name="code">97-614</field>
+        <field name="name">BX Trung đoàn 31/Sư 309</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-617" model="hospital">
+        <field name="code">97-617</field>
+        <field name="name">Bx Trung đoàn 101/Sư 325</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-618" model="hospital">
+        <field name="code">97-618</field>
+        <field name="name">Bx Trung 18/Sư 325</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-619" model="hospital">
+        <field name="code">97-619</field>
+        <field name="name">Bx Trung đoàn 95/ Sư 325</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-620" model="hospital">
+        <field name="code">97-620</field>
+        <field name="name">BX Cơ quan Quân đoàn 2</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-621" model="hospital">
+        <field name="code">97-621</field>
+        <field name="name">BX Trung đoàn 24/Sư đoàn 10</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-622" model="hospital">
+        <field name="code">97-622</field>
+        <field name="name">BX Trung đoàn 28/Sư đoàn 10</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-623" model="hospital">
+        <field name="code">97-623</field>
+        <field name="name">BX Trung đoàn 66/Sư đoàn 10</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-624" model="hospital">
+        <field name="code">97-624</field>
+        <field name="name">Bệnh xá Sư đoàn 390/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-625" model="hospital">
+        <field name="code">97-625</field>
+        <field name="name">Bệnh xá Lữ đoàn 368/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-626" model="hospital">
+        <field name="code">97-626</field>
+        <field name="name">Bệnh xá Lữ đoàn 241/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-627" model="hospital">
+        <field name="code">97-627</field>
+        <field name="name">Bệnh xá Lữ đoàn 299/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-628" model="hospital">
+        <field name="code">97-628</field>
+        <field name="name">Bệnh xá trường Quân sự/QĐ1</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-629" model="hospital">
+        <field name="code">97-629</field>
+        <field name="name">Bệnh xá Trường Sỹ quan Pháo binh/BCPB</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-630" model="hospital">
+        <field name="code">97-630</field>
+        <field name="name">Bệnh xá Lữ đoàn 204/BCPB</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-701" model="hospital">
+        <field name="code">97-701</field>
+        <field name="name">Bệnh xá BCHQS Bà Rịa-Vũng Tàu/QK7</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-705" model="hospital">
+        <field name="code">97-705</field>
+        <field name="name">TTYT QDY tỉnh Tây Ninh/QK7</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-818" model="hospital">
+        <field name="code">97-818</field>
+        <field name="name">Bệnh viện 16/BĐ 16</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-820" model="hospital">
+        <field name="code">97-820</field>
+        <field name="name">Bệnh xá QDY Đoàn 717/BĐ 16</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-821" model="hospital">
+        <field name="code">97-821</field>
+        <field name="name">Bệnh xá QDY Đoàn 719/BĐ 16</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-824" model="hospital">
+        <field name="code">97-824</field>
+        <field name="name">BX Quân dân y Đoàn KTQP 716/BĐ 15</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-825" model="hospital">
+        <field name="code">97-825</field>
+        <field name="name">Bệnh xá QDY Đoàn 79/BĐ15</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-904" model="hospital">
+        <field name="code">97-904</field>
+        <field name="name">Bệnh xá Sư đoàn 330/QK9</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-907" model="hospital">
+        <field name="code">97-907</field>
+        <field name="name">Bệnh xá BCHQS Kiên Giang/QK9</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-911" model="hospital">
+        <field name="code">97-911</field>
+        <field name="name">BX Trung đoàn 1/Sư đoàn 330</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-912" model="hospital">
+        <field name="code">97-912</field>
+        <field name="name">BX Trung đoàn 3/Sư đoàn 330</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-913" model="hospital">
+        <field name="code">97-913</field>
+        <field name="name">BX Trung đoàn 20/Sư đoàn 330</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-914" model="hospital">
+        <field name="code">97-914</field>
+        <field name="name">PKĐK QDY Sư đoàn BB4/QK9</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+    <record id="hospital97-915" model="hospital">
+        <field name="code">97-915</field>
+        <field name="name">Bệnh xá BCHQS Hậu Giang/QK9</field>
+        <field name="source">VN-QP></field>
+    </record>
+
+</odoo>
