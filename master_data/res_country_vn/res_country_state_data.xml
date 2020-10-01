@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="0">
+    <!-- Hải Dương -->
+    <record id="base.state_vn_VN-61" model="res.country.state">
+        <field name="zipcode">170000</field>
+        <field name="type">province</field>
+        <field name="en_name">Hai Duong Province</field>
+    </record>
+    <!-- Ninh Bình -->
+    <record id="base.state_vn_VN-18" model="res.country.state">
+        <field name="zipcode">430000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ninh Binh Province</field>
+    </record>
+    <!-- Quảng Ninh -->
+    <record id="base.state_vn_VN-13" model="res.country.state">
+        <field name="zipcode">200000</field>
+        <field name="type">province</field>
+        <field name="en_name">Quang Ninh Province</field>
+    </record>
+    <!-- Ninh Thuận -->
+    <record id="base.state_vn_VN-36" model="res.country.state">
+        <field name="zipcode">660000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ninh Thuan Province</field>
+    </record>
+    <!-- Bình Thuận -->
+    <record id="base.state_vn_VN-40" model="res.country.state">
+        <field name="zipcode">800000</field>
+        <field name="type">province</field>
+        <field name="en_name">Binh Thuan Province</field>
+    </record>
+    <!-- Tiền Giang -->
+    <record id="base.state_vn_VN-46" model="res.country.state">
+        <field name="zipcode">860000</field>
+        <field name="type">province</field>
+        <field name="en_name">Tien Giang Province</field>
+    </record>
+    <!-- Kon Tum -->
+    <record id="base.state_vn_VN-28" model="res.country.state">
+        <field name="zipcode">580000</field>
+        <field name="type">province</field>
+        <field name="en_name">Kom Tum Province</field>
+    </record>
+    <!-- An Giang -->
+    <record id="base.state_vn_VN-44" model="res.country.state">
+        <field name="zipcode">880000</field>
+        <field name="type">province</field>
+        <field name="en_name">An Giang Province</field>
+    </record>
+    <!-- Gia Lai -->
+    <record id="base.state_vn_VN-30" model="res.country.state">
+        <field name="zipcode">600000</field>
+        <field name="type">province</field>
+        <field name="en_name">Gia Lai Province</field>
+    </record>
+    <!-- Đắk Lắk -->
+    <record id="base.state_vn_VN-33" model="res.country.state">
+        <field name="zipcode">630000</field>
+        <field name="type">province</field>
+        <field name="en_name">Dak Lak Province</field>
+    </record>
+    <!-- Đắk Nông -->
+    <record id="base.state_vn_VN-72" model="res.country.state">
+        <field name="zipcode">640000</field>
+        <field name="type">province</field>
+        <field name="en_name">Dak Nong Province</field>
+    </record>
+    <!-- Lâm Đồng -->
+    <record id="base.state_vn_VN-35" model="res.country.state">
+        <field name="zipcode">670000</field>
+        <field name="type">province</field>
+        <field name="en_name">Lam Dong Province</field>
+    </record>
+    <!-- Bến Tre -->
+    <record id="base.state_vn_VN-50" model="res.country.state">
+        <field name="zipcode">930000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ben Tre Province</field>
+    </record>
+    <!-- Long An -->
+    <record id="base.state_vn_VN-41" model="res.country.state">
+        <field name="zipcode">850000</field>
+        <field name="type">province</field>
+        <field name="en_name">Long An Province</field>
+    </record>
+    <!-- Thái Bình -->
+    <record id="base.state_vn_VN-20" model="res.country.state">
+        <field name="zipcode">410000</field>
+        <field name="type">province</field>
+        <field name="en_name">Thai Binh Province</field>
+    </record>
+    <!-- Vĩnh Long -->
+    <record id="base.state_vn_VN-49" model="res.country.state">
+        <field name="zipcode">890000</field>
+        <field name="type">province</field>
+        <field name="en_name">Vinh Long Province</field>
+    </record>
+    <!-- Đồng Tháp -->
+    <record id="base.state_vn_VN-45" model="res.country.state">
+        <field name="zipcode">870000</field>
+        <field name="type">province</field>
+        <field name="en_name">Dong Thap Province</field>
+    </record>
+    <!-- Trà Vinh -->
+    <record id="base.state_vn_VN-51" model="res.country.state">
+        <field name="zipcode">940000</field>
+        <field name="type">province</field>
+        <field name="en_name">Tra Vinh Province</field>
+    </record>
+    <!-- Cao Bằng -->
+    <record id="base.state_vn_VN-04" model="res.country.state">
+        <field name="zipcode">270000</field>
+        <field name="type">province</field>
+        <field name="en_name">Cao Bang Province</field>
+    </record>
+    <!-- Hà Giang -->
+    <record id="base.state_vn_VN-03" model="res.country.state">
+        <field name="zipcode">310000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ha Giang Province</field>
+    </record>
+    <!-- Phú Thọ -->
+    <record id="base.state_vn_VN-68" model="res.country.state">
+        <field name="zipcode">290000</field>
+        <field name="type">province</field>
+        <field name="en_name">Phu Tho Province</field>
+    </record>
+    <!-- Vĩnh Phúc -->
+    <record id="base.state_vn_VN-70" model="res.country.state">
+        <field name="zipcode">280000</field>
+        <field name="type">province</field>
+        <field name="en_name">Vinh Phuc Province</field>
+    </record>
+    <!-- Hà Nội -->
+    <record id="base.state_vn_VN-HN" model="res.country.state">
+        <field name="zipcode">100000</field>
+        <field name="type">central_cities</field>
+        <field name="en_name">Ha Noi City</field>
+    </record>
+    <!-- Lạng Sơn -->
+    <record id="base.state_vn_VN-09" model="res.country.state">
+        <field name="zipcode">240000</field>
+        <field name="type">province</field>
+        <field name="en_name">Lang Son Province</field>
+    </record>
+    <!-- Đà Nẵng -->
+    <record id="base.state_vn_VN-DN" model="res.country.state">
+        <field name="zipcode">550000</field>
+        <field name="type">central_cities</field>
+        <field name="en_name">Da Nang City</field>
+    </record>
+    <!-- Quảng Nam -->
+    <record id="base.state_vn_VN-27" model="res.country.state">
+        <field name="zipcode">560000</field>
+        <field name="type">province</field>
+        <field name="en_name">Quang Nam Province</field>
+    </record>
+    <!-- Thừa Thiên - Huế -->
+    <record id="base.state_vn_VN-26" model="res.country.state">
+        <field name="zipcode">530000</field>
+        <field name="type">province</field>
+        <field name="en_name">Thua Thien Hue Province</field>
+    </record>
+    <!-- Tuyên Quang -->
+    <record id="base.state_vn_VN-07" model="res.country.state">
+        <field name="zipcode">300000</field>
+        <field name="type">province</field>
+        <field name="en_name">Tuyen Quang Province</field>
+    </record>
+    <!-- Quảng Trị -->
+    <record id="base.state_vn_VN-25" model="res.country.state">
+        <field name="zipcode">520000</field>
+        <field name="type">province</field>
+        <field name="en_name">Quang Tri Province</field>
+    </record>
+    <!-- Hà Tĩnh -->
+    <record id="base.state_vn_VN-23" model="res.country.state">
+        <field name="zipcode">480000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ha Tinh Province</field>
+    </record>
+    <!-- Nghệ An -->
+    <record id="base.state_vn_VN-22" model="res.country.state">
+        <field name="zipcode">460000</field>
+        <field name="type">province</field>
+        <field name="en_name">Nghe An Province</field>
+    </record>
+    <!-- Bắc Ninh -->
+    <record id="base.state_vn_VN-56" model="res.country.state">
+        <field name="zipcode">220000</field>
+        <field name="type">province</field>
+        <field name="en_name">Bac Ninh Province</field>
+    </record>
+    <!-- Bắc Giang -->
+    <record id="base.state_vn_VN-54" model="res.country.state">
+        <field name="zipcode">230000</field>
+        <field name="type">province</field>
+        <field name="en_name">Bac Giang Province</field>
+    </record>
+    <!-- Bà Rịa - Vũng Tàu -->
+    <record id="base.state_vn_VN-43" model="res.country.state">
+        <field name="zipcode">790000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ba Ria - Vung Tau Province</field>
+    </record>
+    <!-- Đồng Nai -->
+    <record id="base.state_vn_VN-39" model="res.country.state">
+        <field name="zipcode">810000</field>
+        <field name="type">province</field>
+        <field name="en_name">Dong Nai Province</field>
+    </record>
+    <!-- Lai Châu -->
+    <record id="base.state_vn_VN-01" model="res.country.state">
+        <field name="zipcode">390000</field>
+        <field name="type">province</field>
+        <field name="en_name">Lai Chau Province</field>
+    </record>
+    <!-- Tây Ninh -->
+    <record id="base.state_vn_VN-37" model="res.country.state">
+        <field name="zipcode">840000</field>
+        <field name="type">province</field>
+        <field name="en_name">Tay Ninh Province</field>
+    </record>
+    <!-- Bình Phước -->
+    <record id="base.state_vn_VN-58" model="res.country.state">
+        <field name="zipcode">830000</field>
+        <field name="type">province</field>
+        <field name="en_name">Binh Phuoc Province</field>
+    </record>
+    <!-- Kiên Giang -->
+    <record id="base.state_vn_VN-47" model="res.country.state">
+        <field name="zipcode">920000</field>
+        <field name="type">province</field>
+        <field name="en_name">Kien Giang Province</field>
+    </record>
+    <!-- Bắc Kạn -->
+    <record id="base.state_vn_VN-53" model="res.country.state">
+        <field name="zipcode">260000</field>
+        <field name="type">province</field>
+        <field name="en_name">Bac Kan Province</field>
+    </record>
+    <!-- Hậu Giang -->
+    <record id="base.state_vn_VN-73" model="res.country.state">
+        <field name="zipcode">910000</field>
+        <field name="type">province</field>
+        <field name="en_name">Hau Giang Province</field>
+    </record>
+    <!-- Cần Thơ -->
+    <record id="base.state_vn_VN-CT" model="res.country.state">
+        <field name="zipcode">900000</field>
+        <field name="type">central_cities</field>
+        <field name="en_name">Can Tho City</field>
+    </record>
+    <!-- Bạc Liêu -->
+    <record id="base.state_vn_VN-55" model="res.country.state">
+        <field name="zipcode">960000</field>
+        <field name="type">province</field>
+        <field name="en_name">Bac Lieu Province</field>
+    </record>
+    <!-- Sóc Trăng -->
+    <record id="base.state_vn_VN-52" model="res.country.state">
+        <field name="zipcode">950000</field>
+        <field name="type">province</field>
+        <field name="en_name">Soc Trang Province</field>
+    </record>
+    <!-- Hồ Chí Minh -->
+    <record id="base.state_vn_VN-SG" model="res.country.state">
+        <field name="zipcode">700000</field>
+        <field name="type">central_cities</field>
+        <field name="en_name">Ho Chi Minh City</field>
+    </record>
+    <!-- Cà Mau -->
+    <record id="base.state_vn_VN-59" model="res.country.state">
+        <field name="zipcode">970000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ca Mau Province</field>
+    </record>
+    <!-- Điện Biên -->
+    <record id="base.state_vn_VN-71" model="res.country.state">
+        <field name="zipcode">380000</field>
+        <field name="type">province</field>
+        <field name="en_name">Dien Bien Province</field>
+    </record>
+    <!-- Lào Cai -->
+    <record id="base.state_vn_VN-02" model="res.country.state">
+        <field name="zipcode">330000</field>
+        <field name="type">province</field>
+        <field name="en_name">Lao Cai Province</field>
+    </record>
+    <!-- Thanh Hóa -->
+    <record id="base.state_vn_VN-21" model="res.country.state">
+        <field name="zipcode">440000</field>
+        <field name="type">province</field>
+        <field name="en_name">Thanh Hoa Province</field>
+    </record>
+    <!-- Yên Bái -->
+    <record id="base.state_vn_VN-06" model="res.country.state">
+        <field name="zipcode">320000</field>
+        <field name="type">province</field>
+        <field name="en_name">Yen Bai Province</field>
+    </record>
+    <!-- Sơn La -->
+    <record id="base.state_vn_VN-05" model="res.country.state">
+        <field name="zipcode">360000</field>
+        <field name="type">province</field>
+        <field name="en_name">Son La Province</field>
+    </record>
+    <!-- Hoà Bình -->
+    <record id="base.state_vn_VN-14" model="res.country.state">
+        <field name="zipcode">350000</field>
+        <field name="type">province</field>
+        <field name="en_name">Hoa Binh Province</field>
+    </record>
+    <!-- Hưng Yên -->
+    <record id="base.state_vn_VN-66" model="res.country.state">
+        <field name="zipcode">160000</field>
+        <field name="type">province</field>
+        <field name="en_name">Hung Yen Province</field>
+    </record>
+    <!-- Phú Yên -->
+    <record id="base.state_vn_VN-32" model="res.country.state">
+        <field name="zipcode">620000</field>
+        <field name="type">province</field>
+        <field name="en_name">Phu Yen Province</field>
+    </record>
+    <!-- Hải Phòng -->
+    <record id="base.state_vn_VN-HP" model="res.country.state">
+        <field name="zipcode">180000</field>
+        <field name="type">central_cities</field>
+        <field name="en_name">Hai Phong City</field>
+    </record>
+    <!-- Khánh Hòa -->
+    <record id="base.state_vn_VN-34" model="res.country.state">
+        <field name="zipcode">650000</field>
+        <field name="type">province</field>
+        <field name="en_name">Khanh Hoa Province</field>
+    </record>
+    <!-- Quảng Ngãi -->
+    <record id="base.state_vn_VN-29" model="res.country.state">
+        <field name="zipcode">570000</field>
+        <field name="type">province</field>
+        <field name="en_name">Quang Ngai Province</field>
+    </record>
+    <!-- Nam Định -->
+    <record id="base.state_vn_VN-67" model="res.country.state">
+        <field name="zipcode">420000</field>
+        <field name="type">province</field>
+        <field name="en_name">Nam Dinh Province</field>
+    </record>
+    <!-- Hà Nam -->
+    <record id="base.state_vn_VN-63" model="res.country.state">
+        <field name="zipcode">400000</field>
+        <field name="type">province</field>
+        <field name="en_name">Ha Nam Province</field>
+    </record>
+    <!-- Bình Định -->
+    <record id="base.state_vn_VN-31" model="res.country.state">
+        <field name="zipcode">590000</field>
+        <field name="type">province</field>
+        <field name="en_name">Binh Dinh Province</field>
+    </record>
+    <!-- Thái Nguyên -->
+    <record id="base.state_vn_VN-69" model="res.country.state">
+        <field name="zipcode">250000</field>
+        <field name="type">province</field>
+        <field name="en_name">Thai Nguyen Province</field>
+    </record>
+    <!-- Bình Dương -->
+    <record id="base.state_vn_VN-57" model="res.country.state">
+        <field name="zipcode">820000</field>
+        <field name="type">province</field>
+        <field name="en_name">Binh Duong Province</field>
+    </record>
+    <!-- Quảng Bình -->
+    <record id="base.state_vn_VN-24" model="res.country.state">
+        <field name="zipcode">510000</field>
+        <field name="type">province</field>
+        <field name="en_name">Quang Binh Province</field>
+    </record>
+</odoo>

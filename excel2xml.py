@@ -4,20 +4,29 @@
 from openpyxl import load_workbook
 import random
 
+import json
+with open("json_file.json") as json_format_file: 
+  d = json.load(json_format_file)
+
+
 wb = load_workbook("qp.xlsx")
 ws = wb.worksheets[0]
 
+
 pattern = """
     <record id="{record_id}" model="{model_name}">
-        <field name="code">{record_code}</field>
+        <field name="code">{record_name}</field>
         <field name="name">{record_hospital_name}</field>
-        <field name="source">{record_province_id}></field>
+        <field name="type">{record_type}</field>
+        <field name="name_en">{record_name_en}</field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', '{record_province_id}'),('country_id.code', '=', 'VN')]"></field>
     </record>"""
-data = random.randint(1, 13000)
-model_name = 'hospital'
+
+model_name = 'res.hospital'
 results = ['''<?xml version='1.0' encoding='utf-8'?>
 <odoo>''',
 ]
+
 
 # <field name="province_id" model="res.country.state" search="[('code', '=', '{record_province_id}'),('country_id.code', '=', 'VN')]"></field>
 
@@ -40,7 +49,7 @@ results.append(
 a = '\n'.join(results)
 # print(a)
 
-with open("masterdataqp.xml", "w") as file:
+with open("masterdataq.xml", "w") as file:
     file.write(str(a))
 
 

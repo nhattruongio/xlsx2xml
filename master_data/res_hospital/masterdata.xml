@@ -57208,1543 +57208,1543 @@
     <record id="hospital67-001" model="hospital">
         <field name="code">67-001</field>
         <field name="name">Trung tâm Y tế H.Đắk Glong</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-004" model="hospital">
         <field name="code">67-004</field>
         <field name="name">Trạm y tế xã Quảng Sơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-005" model="hospital">
         <field name="code">67-005</field>
         <field name="name">Trạm y tế xã Quảng Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-006" model="hospital">
         <field name="code">67-006</field>
         <field name="name">Trạm y tế xã Đắk Ha</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-007" model="hospital">
         <field name="code">67-007</field>
         <field name="name">Trạm y tế xã Đắk RMăng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-008" model="hospital">
         <field name="code">67-008</field>
         <field name="name">Trạm y tế xã Đắk Nia</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-009" model="hospital">
         <field name="code">67-009</field>
         <field name="name">Trung tâm Y tế H.Krông Nô</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-010" model="hospital">
         <field name="code">67-010</field>
         <field name="name">Trạm y tế xã Quảng Khê</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-011" model="hospital">
         <field name="code">67-011</field>
         <field name="name">Trung tâm Y tế  H.Cư Jút</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-012" model="hospital">
         <field name="code">67-012</field>
         <field name="name">Trung tâm Y tế H.Đắk Mil</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-013" model="hospital">
         <field name="code">67-013</field>
         <field name="name">Trạm y tế xã Đắk Plao</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-014" model="hospital">
         <field name="code">67-014</field>
         <field name="name">Trung tâm Y tế H.Đắk RLấp</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-015" model="hospital">
         <field name="code">67-015</field>
         <field name="name">Trạm y tế xã Đắk Som</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-016" model="hospital">
         <field name="code">67-016</field>
         <field name="name">Trạm y tế TT Ea TLing</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-017" model="hospital">
         <field name="code">67-017</field>
         <field name="name">Trạm y tế xã Đắk Wil</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-018" model="hospital">
         <field name="code">67-018</field>
         <field name="name">Trạm y tế xã Ea Pô</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-019" model="hospital">
         <field name="code">67-019</field>
         <field name="name">Trạm y tế xã Nam Dong</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-020" model="hospital">
         <field name="code">67-020</field>
         <field name="name">Trạm y tế xã Đắk DRông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-021" model="hospital">
         <field name="code">67-021</field>
         <field name="name">Trạm y tế xã Tâm Thắng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-022" model="hospital">
         <field name="code">67-022</field>
         <field name="name">Trạm y tế xã Cư Knia</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-023" model="hospital">
         <field name="code">67-023</field>
         <field name="name">Trạm y tế xã Trúc Sơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-024" model="hospital">
         <field name="code">67-024</field>
         <field name="name">Trạm y tế TT Đắk Mil</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-025" model="hospital">
         <field name="code">67-025</field>
         <field name="name">Trạm y tế xã Đắk Lao</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-026" model="hospital">
         <field name="code">67-026</field>
         <field name="name">Trạm y tế xã Đắk RLa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-027" model="hospital">
         <field name="code">67-027</field>
         <field name="name">Trạm y tế xã Đắk Gằn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-028" model="hospital">
         <field name="code">67-028</field>
         <field name="name">Trạm y tế xã Đức Mạnh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-029" model="hospital">
         <field name="code">67-029</field>
         <field name="name">Trạm y tế xã Đắk Sắk</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-030" model="hospital">
         <field name="code">67-030</field>
         <field name="name">Trạm y tế xã Thuận An</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-031" model="hospital">
         <field name="code">67-031</field>
         <field name="name">Trạm y tế xã Đức Minh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-032" model="hospital">
         <field name="code">67-032</field>
         <field name="name">Trạm y tế xã Đắk NDrót</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-033" model="hospital">
         <field name="code">67-033</field>
         <field name="name">Trạm y tế TT Đắk Mâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-034" model="hospital">
         <field name="code">67-034</field>
         <field name="name">Trạm y tế xã Đắk Sôr</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-035" model="hospital">
         <field name="code">67-035</field>
         <field name="name">Trạm y tế xã Buôn Choah</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-036" model="hospital">
         <field name="code">67-036</field>
         <field name="name">Trạm y tế xã Nam Đà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-037" model="hospital">
         <field name="code">67-037</field>
         <field name="name">Trạm y tế xã Đắk Drô</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-038" model="hospital">
         <field name="code">67-038</field>
         <field name="name">Trạm y tế xã Nâm Nung</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-039" model="hospital">
         <field name="code">67-039</field>
         <field name="name">Trạm y tế xã Đức Xuyên</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-040" model="hospital">
         <field name="code">67-040</field>
         <field name="name">Trạm y tế xã Đắk Nang</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-041" model="hospital">
         <field name="code">67-041</field>
         <field name="name">Trạm y tế xã Quảng Phú</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-042" model="hospital">
         <field name="code">67-042</field>
         <field name="name">Trạm y tế xã Nâm NĐir</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-043" model="hospital">
         <field name="code">67-043</field>
         <field name="name">Trạm y tế xã Tân Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-044" model="hospital">
         <field name="code">67-044</field>
         <field name="name">Trạm y tế xã Đắk Môl</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-046" model="hospital">
         <field name="code">67-046</field>
         <field name="name">Trạm y tế xã Thuận Hạnh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-047" model="hospital">
         <field name="code">67-047</field>
         <field name="name">Trạm y tế xã Đắk NDrung</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-048" model="hospital">
         <field name="code">67-048</field>
         <field name="name">Trạm y tế xã Trường Xuân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-049" model="hospital">
         <field name="code">67-049</field>
         <field name="name">Trạm y tế xã Nâm Njang</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-050" model="hospital">
         <field name="code">67-050</field>
         <field name="name">Trung tâm Y tế H.Đắk Song</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-051" model="hospital">
         <field name="code">67-051</field>
         <field name="name">Trạm y tế TT Kiến Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-052" model="hospital">
         <field name="code">67-052</field>
         <field name="name">Trạm y tế xã Quảng Trực</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-053" model="hospital">
         <field name="code">67-053</field>
         <field name="name">Trạm y tế xã Đắk Búk So</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-054" model="hospital">
         <field name="code">67-054</field>
         <field name="name">Trạm y tế Xã ĐắK RTýH</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-055" model="hospital">
         <field name="code">67-055</field>
         <field name="name">Trạm y tế Xã Quảng Tín</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-056" model="hospital">
         <field name="code">67-056</field>
         <field name="name">Trạm y tế xã Quảng Tân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-057" model="hospital">
         <field name="code">67-057</field>
         <field name="name">Trạm y tế xã Nhân Cơ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-058" model="hospital">
         <field name="code">67-058</field>
         <field name="name">Trạm y tế xã Kiến Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-059" model="hospital">
         <field name="code">67-059</field>
         <field name="name">Trạm y tế xã Đạo Nghĩa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-060" model="hospital">
         <field name="code">67-060</field>
         <field name="name">Trạm y tế xã Đắk Sin</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-061" model="hospital">
         <field name="code">67-061</field>
         <field name="name">Trạm y tế xã Đắk Ru</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-062" model="hospital">
         <field name="code">67-062</field>
         <field name="name">Trạm y tế xã Nhân Đạo</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-063" model="hospital">
         <field name="code">67-063</field>
         <field name="name">Trạm y tế xã Đắk Wer</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-064" model="hospital">
         <field name="code">67-064</field>
         <field name="name">Trạm y tế phường Nghĩa Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-065" model="hospital">
         <field name="code">67-065</field>
         <field name="name">Trạm y tế phường Nghĩa Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-066" model="hospital">
         <field name="code">67-066</field>
         <field name="name">Trạm y tế phường Nghĩa Phú</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-067" model="hospital">
         <field name="code">67-067</field>
         <field name="name">Trạm y tế phường Nghĩa Tân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-068" model="hospital">
         <field name="code">67-068</field>
         <field name="name">Trạm y tế phường Nghĩa Trung</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-069" model="hospital">
         <field name="code">67-069</field>
         <field name="name">Trạm y tế xã Đắk RMoan</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-072" model="hospital">
         <field name="code">67-072</field>
         <field name="name">Bệnh viện đa khoa tỉnh Đắk Nông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-073" model="hospital">
         <field name="code">67-073</field>
         <field name="name">Trạm y tế xã Long Sơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-074" model="hospital">
         <field name="code">67-074</field>
         <field name="name">Trung tâm Y tế H.Tuy Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-075" model="hospital">
         <field name="code">67-075</field>
         <field name="name">Trạm y tế xã Đăk Ngo</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-076" model="hospital">
         <field name="code">67-076</field>
         <field name="name">Trạm y tế xã Quảng Tâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-077" model="hospital">
         <field name="code">67-077</field>
         <field name="name">Bệnh xá quân dân y Trung đoàn 720/Binh đoàn 16</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-084" model="hospital">
         <field name="code">67-084</field>
         <field name="name">Bệnh xá Quân dân y Trung Đoàn 726/Binh đoàn 16</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-085" model="hospital">
         <field name="code">67-085</field>
         <field name="name">Trạm y tế xã Nam Xuân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-086" model="hospital">
         <field name="code">67-086</field>
         <field name="name">Trạm y tế xã Quảng Hòa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-087" model="hospital">
         <field name="code">67-087</field>
         <field name="name">Trạm y tế TT Đức An</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-088" model="hospital">
         <field name="code">67-088</field>
         <field name="name">Trạm y tế xã Đắk Hòa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-089" model="hospital">
         <field name="code">67-089</field>
         <field name="name">Trạm y tế xã Hưng Bình</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-090" model="hospital">
         <field name="code">67-090</field>
         <field name="name">Trạm y tế xã Nghĩa Thắng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-091" model="hospital">
         <field name="code">67-091</field>
         <field name="name">Trạm y tế xã Thuận Hà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-092" model="hospital">
         <field name="code">67-092</field>
         <field name="name">Trạm y tế xã Nam Bình</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-093" model="hospital">
         <field name="code">67-093</field>
         <field name="name">Phòng khám đa khoa, Trung tâm kiểm soát bệnh tật tỉnh Đăk Nông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital67-094" model="hospital">
         <field name="code">67-094</field>
         <field name="name">Bệnh xá Công An tỉnh Đăk Nông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-37'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-72'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-001" model="hospital">
         <field name="code">68-001</field>
         <field name="name">Bệnh viện đa khoa tỉnh Lâm Đồng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-002" model="hospital">
         <field name="code">68-002</field>
         <field name="name">Bệnh viện YHCT Phạm Ngọc Thạch-Lâm Đồng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-003" model="hospital">
         <field name="code">68-003</field>
         <field name="name">Trung tâm y tế Đà Lạt</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-004" model="hospital">
         <field name="code">68-004</field>
         <field name="name">Phòng khám đa khoa khu vực Trại Mát</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-005" model="hospital">
         <field name="code">68-005</field>
         <field name="name">Phòng khám đa khoa khu vực Xuân Trường</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-006" model="hospital">
         <field name="code">68-006</field>
         <field name="name">Nhà hộ sinh thành phố</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-007" model="hospital">
         <field name="code">68-007</field>
         <field name="name">Trạm y tế phường 12</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-008" model="hospital">
         <field name="code">68-008</field>
         <field name="name">Bệnh viện Phục hồi chức năng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-009" model="hospital">
         <field name="code">68-009</field>
         <field name="name">Trạm y tế xã Xuân Thọ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-011" model="hospital">
         <field name="code">68-011</field>
         <field name="name">Trạm y tế xã Tà Nung</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-012" model="hospital">
         <field name="code">68-012</field>
         <field name="name">Trạm y tế phường 10</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-013" model="hospital">
         <field name="code">68-013</field>
         <field name="name">Trạm y tế phường 4</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-014" model="hospital">
         <field name="code">68-014</field>
         <field name="name">Trạm y tế phường 5</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-015" model="hospital">
         <field name="code">68-015</field>
         <field name="name">Trạm y tế phường 1</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-016" model="hospital">
         <field name="code">68-016</field>
         <field name="name">Trạm y tế phường 2</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-017" model="hospital">
         <field name="code">68-017</field>
         <field name="name">Trạm y tế phường 9</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-018" model="hospital">
         <field name="code">68-018</field>
         <field name="name">Trạm y tế phường 3</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-019" model="hospital">
         <field name="code">68-019</field>
         <field name="name">Trạm y tế phường 6</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-020" model="hospital">
         <field name="code">68-020</field>
         <field name="name">Trạm y tế phường 7</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-021" model="hospital">
         <field name="code">68-021</field>
         <field name="name">Trạm y tế phường 8</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-023" model="hospital">
         <field name="code">68-023</field>
         <field name="name">Trạm y tế xã Hiêp Thạnh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-025" model="hospital">
         <field name="code">68-025</field>
         <field name="name">Trạm y tế thị trấn Đạ Tẻh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-034" model="hospital">
         <field name="code">68-034</field>
         <field name="name">Trạm y tế xã Trạm Hành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-035" model="hospital">
         <field name="code">68-035</field>
         <field name="name">Trạm y tế xã Đa Quyn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-036" model="hospital">
         <field name="code">68-036</field>
         <field name="name">Trạm y tế xã  Tân Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-037" model="hospital">
         <field name="code">68-037</field>
         <field name="name">Trung tâm phòng chống bệnh xã hội</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-038" model="hospital">
         <field name="code">68-038</field>
         <field name="name">Bệnh viện đa khoa Hoàn Mỹ Đà Lạt</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-039" model="hospital">
         <field name="code">68-039</field>
         <field name="name">Phòng khám đa khoa KV Đạ Tông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-040" model="hospital">
         <field name="code">68-040</field>
         <field name="name">Trạm y tế thị trấn Dran</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-041" model="hospital">
         <field name="code">68-041</field>
         <field name="name">Trạm y tế thị trấn Cát Tiên</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-042" model="hospital">
         <field name="code">68-042</field>
         <field name="name">Trạm y tế xã Hòa Ninh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-043" model="hospital">
         <field name="code">68-043</field>
         <field name="name">Khu điều trị phong Di Linh - Trung tâm phòng chống bệnh xã hội</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-044" model="hospital">
         <field name="code">68-044</field>
         <field name="name">Bênh viện Nhi Lâm Đồng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-300" model="hospital">
         <field name="code">68-300</field>
         <field name="name">Trung tâm y tế huyện Lạc Dương</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-310" model="hospital">
         <field name="code">68-310</field>
         <field name="name">Trạm y tế xã Đưng K'nớ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-313" model="hospital">
         <field name="code">68-313</field>
         <field name="name">Trạm y tế xã Đạ Chais</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-314" model="hospital">
         <field name="code">68-314</field>
         <field name="name">Trạm y tế xã Đạ Sar</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-316" model="hospital">
         <field name="code">68-316</field>
         <field name="name">Trạm y tế xã Đa Nhim</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-317" model="hospital">
         <field name="code">68-317</field>
         <field name="name">Trạm y tế xã Lát</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-318" model="hospital">
         <field name="code">68-318</field>
         <field name="name">Trạm y tế thị trấn Lạc Dương</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-370" model="hospital">
         <field name="code">68-370</field>
         <field name="name">Trung tâm y tế huyện Đơn Dương</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-371" model="hospital">
         <field name="code">68-371</field>
         <field name="name">Phòng khám đa khoa khu vực Đran</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-372" model="hospital">
         <field name="code">68-372</field>
         <field name="name">Trạm y tế xã Lạc Xuân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-373" model="hospital">
         <field name="code">68-373</field>
         <field name="name">Trạm y tế xã Lạc Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-374" model="hospital">
         <field name="code">68-374</field>
         <field name="name">Trạm y tế thị trấn Thạnh Mỹ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-375" model="hospital">
         <field name="code">68-375</field>
         <field name="name">Phòng khám đa khoa khu vực Ka Đô</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-376" model="hospital">
         <field name="code">68-376</field>
         <field name="name">Phòng khám đa khoa khu vực Ka Đơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-377" model="hospital">
         <field name="code">68-377</field>
         <field name="name">Trạm y tế xã Pró</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-378" model="hospital">
         <field name="code">68-378</field>
         <field name="name">Trạm y tế xã Quảng Lập</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-379" model="hospital">
         <field name="code">68-379</field>
         <field name="name">Trạm y tế xã Tu Tra</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-380" model="hospital">
         <field name="code">68-380</field>
         <field name="name">Trạm y tế xã Đạ Ròn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-440" model="hospital">
         <field name="code">68-440</field>
         <field name="name">Trung tâm y tế huyện Đức Trọng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-441" model="hospital">
         <field name="code">68-441</field>
         <field name="name">Phòng khám đa khoa khu vực Ninh Gia</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-442" model="hospital">
         <field name="code">68-442</field>
         <field name="name">Trạm y tế xã Tà Hine</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-443" model="hospital">
         <field name="code">68-443</field>
         <field name="name">Phòng khám đa khoa khu vực Đà Loan</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-444" model="hospital">
         <field name="code">68-444</field>
         <field name="name">Trạm y tế xã Bình Thạnh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-445" model="hospital">
         <field name="code">68-445</field>
         <field name="name">Trạm y tế xã Tà Năng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-446" model="hospital">
         <field name="code">68-446</field>
         <field name="name">Trạm y tế xã Ninh Loan</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-447" model="hospital">
         <field name="code">68-447</field>
         <field name="name">Trạm y tế xã Tân Hội</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-448" model="hospital">
         <field name="code">68-448</field>
         <field name="name">Trạm y tế xã Liên Hiệp</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-449" model="hospital">
         <field name="code">68-449</field>
         <field name="name">Trạm y tế thị trấn Liên Nghĩa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-450" model="hospital">
         <field name="code">68-450</field>
         <field name="name">Trạm y tế xã N'thol Hạ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-451" model="hospital">
         <field name="code">68-451</field>
         <field name="name">Trạm y tế xã Tân Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-453" model="hospital">
         <field name="code">68-453</field>
         <field name="name">Trạm y tế xã Hiệp An</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-455" model="hospital">
         <field name="code">68-455</field>
         <field name="name">Trạm y tế xã Phú Hội</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-510" model="hospital">
         <field name="code">68-510</field>
         <field name="name">Trung tâm y tế huyện Lâm Hà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-511" model="hospital">
         <field name="code">68-511</field>
         <field name="name">Trạm y tế xã Hoài Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-512" model="hospital">
         <field name="code">68-512</field>
         <field name="name">Phòng khám đa khoa khu vực Nam Ban</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-513" model="hospital">
         <field name="code">68-513</field>
         <field name="name">Phòng khám đa khoa khu vực Tân Hà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-514" model="hospital">
         <field name="code">68-514</field>
         <field name="name">Trạm y tế thị trấn Đinh Văn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-515" model="hospital">
         <field name="code">68-515</field>
         <field name="name">Trạm y tế TT Nam Ban-Lâm Hà-Lâm Đồng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-516" model="hospital">
         <field name="code">68-516</field>
         <field name="name">Trạm y tế xã  Phi Tô</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-518" model="hospital">
         <field name="code">68-518</field>
         <field name="name">Trạm y tế xã Liên Hà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-519" model="hospital">
         <field name="code">68-519</field>
         <field name="name">Trạm y tế xã Đạ Đờn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-520" model="hospital">
         <field name="code">68-520</field>
         <field name="name">Trạm y tế xã Tân Văn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-521" model="hospital">
         <field name="code">68-521</field>
         <field name="name">Trạm y tế xã Phú Sơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-522" model="hospital">
         <field name="code">68-522</field>
         <field name="name">Trạm y tế xã Nam Hà</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-523" model="hospital">
         <field name="code">68-523</field>
         <field name="name">Trạm y tế xã Đông Thanh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-524" model="hospital">
         <field name="code">68-524</field>
         <field name="name">Trạm y tế xã Tân Thanh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-525" model="hospital">
         <field name="code">68-525</field>
         <field name="name">Trạm y tế xã Đan Phượng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-526" model="hospital">
         <field name="code">68-526</field>
         <field name="name">Trạm y tế xã Gia Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-527" model="hospital">
         <field name="code">68-527</field>
         <field name="name">Trạm y tế xã Mê Linh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-528" model="hospital">
         <field name="code">68-528</field>
         <field name="name">Trạm y tế xã Phúc Thọ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-580" model="hospital">
         <field name="code">68-580</field>
         <field name="name">Trung tâm y tế huyện Di Linh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-581" model="hospital">
         <field name="code">68-581</field>
         <field name="name">Phòng khám đa khoa khu vực Hòa Ninh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-582" model="hospital">
         <field name="code">68-582</field>
         <field name="name">Trạm y tế xã Tam Bố</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-583" model="hospital">
         <field name="code">68-583</field>
         <field name="name">Trạm y tế xã Hòa Bắc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-584" model="hospital">
         <field name="code">68-584</field>
         <field name="name">Trạm y tế xã Sơn Điền</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-585" model="hospital">
         <field name="code">68-585</field>
         <field name="name">Trạm y tế xã Hòa Nam</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-586" model="hospital">
         <field name="code">68-586</field>
         <field name="name">Trạm y tế xã Gia Bắc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-587" model="hospital">
         <field name="code">68-587</field>
         <field name="name">Trạm y tế xã Đinh Trang Hòa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-588" model="hospital">
         <field name="code">68-588</field>
         <field name="name">Trạm y tế xã Bảo Thuận</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-589" model="hospital">
         <field name="code">68-589</field>
         <field name="name">Trạm y tế xã Hòa Trung</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-590" model="hospital">
         <field name="code">68-590</field>
         <field name="name">Trạm y tế xã Gia Hiệp</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-591" model="hospital">
         <field name="code">68-591</field>
         <field name="name">Phòng khám đa khoa khu vực Tân Thượng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-592" model="hospital">
         <field name="code">68-592</field>
         <field name="name">Trạm y tế xã Đinh Trang Thượng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-593" model="hospital">
         <field name="code">68-593</field>
         <field name="name">Trạm y tế xã Đinh Lạc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-594" model="hospital">
         <field name="code">68-594</field>
         <field name="name">Trạm y tế xã Tân Nghĩa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-595" model="hospital">
         <field name="code">68-595</field>
         <field name="name">Trạm y tế xã Gung ré</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-596" model="hospital">
         <field name="code">68-596</field>
         <field name="name">Trạm y tế TT Di Linh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-597" model="hospital">
         <field name="code">68-597</field>
         <field name="name">Trạm y tế xã  Liên Đầm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-598" model="hospital">
         <field name="code">68-598</field>
         <field name="name">Trạm y tế xã  Tân Châu</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-599" model="hospital">
         <field name="code">68-599</field>
         <field name="name">Trạm y tế xã  Tân Thượng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-650" model="hospital">
         <field name="code">68-650</field>
         <field name="name">Bệnh viện II Lâm Đồng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-651" model="hospital">
         <field name="code">68-651</field>
         <field name="name">Bệnh viện YHCT Bảo Lộc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-652" model="hospital">
         <field name="code">68-652</field>
         <field name="name">Trạm y tế phường Lộc Phát</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-653" model="hospital">
         <field name="code">68-653</field>
         <field name="name">Trạm y tế xã Đạm Bri</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-654" model="hospital">
         <field name="code">68-654</field>
         <field name="name">Phòng khám đa khoa khu vực Lộc Châu</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-655" model="hospital">
         <field name="code">68-655</field>
         <field name="name">Trạm y tế xã Đại Lào</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-656" model="hospital">
         <field name="code">68-656</field>
         <field name="name">Trạm y tế xã Lộc Nga</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-657" model="hospital">
         <field name="code">68-657</field>
         <field name="name">Trạm y tế phường Lộc Sơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-658" model="hospital">
         <field name="code">68-658</field>
         <field name="name">Trạm y tế phường B'lao</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-659" model="hospital">
         <field name="code">68-659</field>
         <field name="name">Trạm y tế phường II</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-660" model="hospital">
         <field name="code">68-660</field>
         <field name="name">Trạm y tế phường I</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-661" model="hospital">
         <field name="code">68-661</field>
         <field name="name">Trạm y tế xã Lộc Thanh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-662" model="hospital">
         <field name="code">68-662</field>
         <field name="name">Trạm y tế phường Lộc Tiến</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-663" model="hospital">
         <field name="code">68-663</field>
         <field name="name">Trung tâm y tế TP Bảo Lộc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-720" model="hospital">
         <field name="code">68-720</field>
         <field name="name">Trung tâm y tế huyện Bảo Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-721" model="hospital">
         <field name="code">68-721</field>
         <field name="name">Trạm y tế xã Lộc An</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-722" model="hospital">
         <field name="code">68-722</field>
         <field name="name">Phòng khám đa khoa khu vực Lộc Thành</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-723" model="hospital">
         <field name="code">68-723</field>
         <field name="name">Trạm y tế xã Lộc Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-724" model="hospital">
         <field name="code">68-724</field>
         <field name="name">Trạm y tế xã B'lá</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-725" model="hospital">
         <field name="code">68-725</field>
         <field name="name">Trạm y tế xã Lộc Bắc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-726" model="hospital">
         <field name="code">68-726</field>
         <field name="name">Trạm y tế xã Lộc Bảo</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-727" model="hospital">
         <field name="code">68-727</field>
         <field name="name">Trạm y tế xã Lộc Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-728" model="hospital">
         <field name="code">68-728</field>
         <field name="name">Trạm y tế xã Lộc Nam</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-729" model="hospital">
         <field name="code">68-729</field>
         <field name="name">Trạm y tế xã Lộc Ngãi</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-730" model="hospital">
         <field name="code">68-730</field>
         <field name="name">Trạm y tế xã Lộc Quảng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-731" model="hospital">
         <field name="code">68-731</field>
         <field name="name">Trạm y tế xã Lộc Tân</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-732" model="hospital">
         <field name="code">68-732</field>
         <field name="name">Trạm y tế TT Lộc Thắng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-733" model="hospital">
         <field name="code">68-733</field>
         <field name="name">Trạm y tế xã  Lộc Phú</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-734" model="hospital">
         <field name="code">68-734</field>
         <field name="name">Trạm y tế xã  Tân Lạc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-790" model="hospital">
         <field name="code">68-790</field>
         <field name="name">Trung tâm y tế huyện Đạ Huoai</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-791" model="hospital">
         <field name="code">68-791</field>
         <field name="name">Phòng khám đa khoa khu vực Đạ Mri</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-792" model="hospital">
         <field name="code">68-792</field>
         <field name="name">Trạm y tế xã  Đạ Ploa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-793" model="hospital">
         <field name="code">68-793</field>
         <field name="name">Trạm y tế xã  Đạ Tồn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-794" model="hospital">
         <field name="code">68-794</field>
         <field name="name">Trạm y tế xã Madaguôi</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-795" model="hospital">
         <field name="code">68-795</field>
         <field name="name">Trạm y tế xã Đạ Oai</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-796" model="hospital">
         <field name="code">68-796</field>
         <field name="name">Trạm y tế xã Đoàn Kết</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-797" model="hospital">
         <field name="code">68-797</field>
         <field name="name">Trạm y tế xã Phước Lộc</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-798" model="hospital">
         <field name="code">68-798</field>
         <field name="name">Trạm y tế xã Hà Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-860" model="hospital">
         <field name="code">68-860</field>
         <field name="name">Trung tâm y tế huyện Đạ Tẻh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-861" model="hospital">
         <field name="code">68-861</field>
         <field name="name">Trạm y tế xã Đạ Kho</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-862" model="hospital">
         <field name="code">68-862</field>
         <field name="name">Trạm y tế xã Quảng Trị</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-863" model="hospital">
         <field name="code">68-863</field>
         <field name="name">Trạm y tế xã Quốc Oai</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-864" model="hospital">
         <field name="code">68-864</field>
         <field name="name">Trạm y tế xã Triệu Hải</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-865" model="hospital">
         <field name="code">68-865</field>
         <field name="name">Trạm y tế xã Mỹ Đức</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-866" model="hospital">
         <field name="code">68-866</field>
         <field name="name">Trạm y tế xã  Hương Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-867" model="hospital">
         <field name="code">68-867</field>
         <field name="name">Trạm y tế xã  Hà Đông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-868" model="hospital">
         <field name="code">68-868</field>
         <field name="name">Trạm y tế xã  An Nhơn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-869" model="hospital">
         <field name="code">68-869</field>
         <field name="name">Trạm y tế xã  Đạ Lây</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-870" model="hospital">
         <field name="code">68-870</field>
         <field name="name">Trạm y tế xã  Đạ Pal</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-930" model="hospital">
         <field name="code">68-930</field>
         <field name="name">Trung tâm y tế huyện Cát Tiên</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-931" model="hospital">
         <field name="code">68-931</field>
         <field name="name">Trạm y tế xã Phước Cát 1</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-932" model="hospital">
         <field name="code">68-932</field>
         <field name="name">Trạm y tế xã Gia Viễn</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-933" model="hospital">
         <field name="code">68-933</field>
         <field name="name">Trạm y tế xã  Quảng Ngãi</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-935" model="hospital">
         <field name="code">68-935</field>
         <field name="name">Trạm y tế xã  Đức Phổ</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-936" model="hospital">
         <field name="code">68-936</field>
         <field name="name">Trạm y tế xã  Phước Cát 2</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-937" model="hospital">
         <field name="code">68-937</field>
         <field name="name">Trạm y tế xã  Tiên Hoàng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-938" model="hospital">
         <field name="code">68-938</field>
         <field name="name">Trạm y tế xã  Nam Ninh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-939" model="hospital">
         <field name="code">68-939</field>
         <field name="name">Trạm y tế xã  Mỹ Lâm</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-941" model="hospital">
         <field name="code">68-941</field>
         <field name="name">Trạm y tế xã  Tư Nghĩa</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-944" model="hospital">
         <field name="code">68-944</field>
         <field name="name">Trạm y tế xã  Đồng Nai Thượng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-970" model="hospital">
         <field name="code">68-970</field>
         <field name="name">Trung tâm y tế huyện Đam Rông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-972" model="hospital">
         <field name="code">68-972</field>
         <field name="name">Phòng khám đa khoa khu vực Phi Liêng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-973" model="hospital">
         <field name="code">68-973</field>
         <field name="name">Trạm y tế xã  Liêng Srônh</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-974" model="hospital">
         <field name="code">68-974</field>
         <field name="name">Trạm y tế xã  Đạ K' nàng</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-975" model="hospital">
         <field name="code">68-975</field>
         <field name="name">Trạm y tế xã  Đạ Long</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-976" model="hospital">
         <field name="code">68-976</field>
         <field name="name">Trạm y tế xã  Đạ Tông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-978" model="hospital">
         <field name="code">68-978</field>
         <field name="name">Trạm y tế xã  Đạ Rsal</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-979" model="hospital">
         <field name="code">68-979</field>
         <field name="name">Trạm y tế xã  Rô Men</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-980" model="hospital">
         <field name="code">68-980</field>
         <field name="name">Trạm y tế xã  M' Rông</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-982" model="hospital">
         <field name="code">68-982</field>
         <field name="name">Trạm y tế xã Đạm Ri</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital68-983" model="hospital">
         <field name="code">68-983</field>
         <field name="name">Phân trạm y tế xã  Đạ Nha</field>
-        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-VN-63'),('country_id.code', '=', 'VN')]"></field>
+        <field name="province_id" model="res.country.state" search="[('code', '=', 'VN-35'),('country_id.code', '=', 'VN')]"></field>
     </record>
 
     <record id="hospital70-001" model="hospital">
